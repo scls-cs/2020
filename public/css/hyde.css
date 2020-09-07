@@ -83,6 +83,11 @@ html {
   font-size: 2.4rem;
 }
 
+.sidebar-bottom {
+  position: fixed;
+  bottom: 1rem;
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
