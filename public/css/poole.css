@@ -80,7 +80,7 @@ a:focus {
 }
 
 /* Headings */
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6, h1-title {
   margin-bottom: .5rem;
   font-weight: bold;
   line-height: 1.25;
@@ -90,6 +90,11 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 2rem;
 }
+
+h1-title {
+  font-size: 2rem;
+}
+
 h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
