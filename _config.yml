@@ -7,9 +7,9 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            信息技术
-tagline:          宋庆龄中学
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Computer Science
+tagline:          SCLS
+description:      '<p> Derek Hu </p> <p> tong.hu@scls-sh.org </p>'
 url:              http://hyde.getpoole.com
 baseurl:          https://scls-cs.github.io/2020/
 
