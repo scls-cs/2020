@@ -7,7 +7,7 @@ permalink:        pretty
 relative_permalinks: false
 
 # Setup
-title:            Intro to Computer Science
+title:            计算机概论
 tagline:          SCLS
 description:      '<p> Derek Hu </p> <p> tong.hu@scls-sh.org </p>'
 url:              http://hyde.getpoole.com
